@@ -8,8 +8,8 @@ public class Main {
 //        System.out.print(obj.name);
         // java: name has private access in com.driver.RWOnly
 
-        obj.setter("Shiv");
+        obj.setName("Shiv");
 
-        System.out.print(obj.getter());
+        System.out.print(obj.getName());
     }
 }
