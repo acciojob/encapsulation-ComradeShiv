@@ -11,6 +11,5 @@ public class Main {
         obj.setName("Shiv");
 
         System.out.print(obj.getName());
-
     }
 }
